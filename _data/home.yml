@@ -1,0 +1,35 @@
+project_entries:
+  - title: "untangle"
+    url: https://github.com/RockingShip/untangle
+    desc: "Extract essence of information and store/contain in fractal structures"
+    highlight: WIP
+
+  - title: "jsFractalZoom"
+    url: https://github.com/RockingShip/jsFractalZoom
+    desc: "Fractal zoomer and splash codec written in javascript"
+
+  - title: "ccbc"
+    url: https://github.com/RockingShip/ccbc
+    desc: "Closed Continuous Bézier Curves (remastered)"
+    highlight: WIP
+
+  - title: "transverseMercator"
+    url: https://github.com/RockingShip/transverseMercator
+    desc: "Ellipsoidal Transverse Mercator Projection (Javascript)"
+    highlight: WIP
+
+  - title: "armonika"
+    url: https://github.com/RockingShip/armonika
+    desc: "Encoding/decoding/handling of variable length numbers in bit addressable memory"
+    highlight: WIP
+
+  - title: "xtools"
+    url: https://github.com/RockingShip/xtools
+    desc: "Toolchain intended for supporting the \"untangle\" fractal engine. Keep it simple!"
+
+footer_entries:
+  - title: "RockingShip's harbor"
+    url: https://RockingShip.github.io
+
+  - title: "RockingShip@github"
+    url: https://github.com/RockingShip
