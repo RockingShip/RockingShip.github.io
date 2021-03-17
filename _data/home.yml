@@ -1,3 +1,7 @@
+navbar_entries:
+  - title: "RockingShip@github"
+    url: https://github.com/RockingShip
+
 project_entries:
   - title: "untangle"
     url: https://github.com/RockingShip/untangle
@@ -28,8 +32,5 @@ project_entries:
     desc: "Toolchain intended for supporting the \"untangle\" fractal engine. Keep it simple!"
 
 footer_entries:
-  - title: "RockingShip's harbor"
-    url: https://RockingShip.github.io
-
   - title: "RockingShip@github"
     url: https://github.com/RockingShip
