@@ -4,20 +4,24 @@ navbar_entries:
 
 project_entries:
   - title: "untangle"
+    thumb: assets/untangle-124x124.png
     url: https://github.com/RockingShip/untangle
     desc: "Extract essence of information and store/contain in fractal structures"
     highlight: WIP
 
   - title: "jsFractalZoom"
+    thumb: assets/jsFractalZoom-220x124.png
     url: https://github.com/RockingShip/jsFractalZoom
     desc: "Fractal zoomer and splash codec written in javascript"
 
   - title: "ccbc"
+    thumb: assets/ccbc-124x124.png
     url: https://github.com/RockingShip/ccbc
     desc: "Closed Continuous Bézier Curves (remastered)"
     highlight: WIP
 
   - title: "transverseMercator"
+    thumb: assets/transverseMercator-124x124.png
     url: https://github.com/RockingShip/transverseMercator
     desc: "Ellipsoidal Transverse Mercator Projection (Javascript)"
     highlight: WIP

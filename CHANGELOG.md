@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-03-18 19:40:34 Added: thumbs.
 2021-03-17 23:43:48 Changed: navbar/footer.
 2021-03-17 23:24:22 Initial commit.
 ```
