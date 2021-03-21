@@ -2,6 +2,9 @@ navbar_entries:
   - title: "RockingShip@github"
     url: https://github.com/RockingShip
 
+  - title: "showcase@xyzzy"
+    url: https://xyzzy.github.io/
+
 project_entries:
   - title: "untangle"
     thumb: assets/untangle-124x124.png
@@ -38,3 +41,6 @@ project_entries:
 footer_entries:
   - title: "RockingShip@github"
     url: https://github.com/RockingShip
+
+  - title: "showcase@xyzzy"
+    url: https://xyzzy.github.io/
