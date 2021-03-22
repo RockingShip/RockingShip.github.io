@@ -14,7 +14,7 @@ project_entries:
 
   - title: "jsFractalZoom"
     thumb: assets/jsFractalZoom-220x124.png
-    url: https://github.com/RockingShip/jsFractalZoom
+    url: https://rockingship.github.io/jsFractalZoom/README.html
     desc: "Fractal zoomer and splash codec written in javascript"
 
   - title: "ccbc"
