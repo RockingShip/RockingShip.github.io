@@ -9,7 +9,7 @@ project_entries:
   - title: "untangle"
     thumb: assets/untangle-220x124.png
     url: https://rockingship.github.io/untangle/README.html
-    desc: "Extract essence of information and store/contain in fractal structures"
+    desc: "Extract essence of information and store in fractal structures"
     highlight: WIP
 
   - title: "jsFractalZoom"
