@@ -19,7 +19,7 @@ project_entries:
 
   - title: "ccbc"
     thumb: assets/ccbc-124x124.png
-    url: https://github.com/RockingShip/ccbc
+    url: https://rockingship.github.io/ccbc/README.html
     desc: "Closed Continuous Bézier Curves (remastered)"
     highlight: WIP
 
