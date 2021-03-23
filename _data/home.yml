@@ -36,7 +36,8 @@ project_entries:
     highlight: WIP
 
   - title: "xtools"
-    url: https://github.com/RockingShip/xtools
+    thumb: assets/xtools-124x124.png
+    url: https://rockingship.github.io/xtools/README.html
     desc: "Toolchain intended for supporting the \"untangle\" fractal engine. Keep it simple!"
 
 footer_entries:
