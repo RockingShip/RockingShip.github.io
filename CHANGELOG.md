@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-03-23 01:12:29 Changed: `armonika`.
 2021-03-23 01:12:29 Changed: `transverseMercator` url.
 2021-03-22 13:17:33 Changed: `ccbc` url.
 2021-03-22 13:17:33 Changed: `jsFractalZoom` url.

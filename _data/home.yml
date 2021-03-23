@@ -30,7 +30,8 @@ project_entries:
     highlight: WIP
 
   - title: "armonika"
-    url: https://github.com/RockingShip/armonika
+    thumb: assets/armonika-220x124.png
+    url: https://rockingship.github.io/armonika/README.html
     desc: "Encoding/decoding/handling of variable length numbers in bit addressable memory"
     highlight: WIP
 
