@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-03-24 15:42:52 Added: Donate button.
 2021-03-23 15:54:21 Changed: `xtools`.
 2021-03-23 01:12:29 Changed: `armonika`.
 2021-03-23 01:12:29 Changed: `transverseMercator` url.

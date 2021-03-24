@@ -10,3 +10,6 @@ It is simply described as fractal logic and computing.
 Rewriting logic on a fundamental level.
 
 `untangle`, the center project, isolates and extracts the essence of information.
+
+Instead of an ad with tracking...  
+Want to [![opencollective](assets/opencollective-icon.svg) donate](https://opencollective.com/RockingShip) some appreciation for the use or inspiration it gives you?
