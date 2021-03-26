@@ -1,8 +1,8 @@
 navbar_entries:
-  - title: "RockingShip@github"
+  - title: "RockingShip <div class=\"GitHub-mark\"></div>"
     url: https://github.com/RockingShip
 
-  - title: "showcase@xyzzy"
+  - title: "showcase <div class=\"xyzzy-mark\"></div>"
     url: https://xyzzy.github.io
 
 project_entries:
@@ -41,8 +41,8 @@ project_entries:
     desc: "Toolchain intended for supporting the \"untangle\" fractal engine. Keep it simple!"
 
 footer_entries:
-  - title: "RockingShip@github"
+  - title: "RockingShip <div class=\"GitHub-mark\"></div>"
     url: https://github.com/RockingShip
 
-  - title: "showcase@xyzzy"
+  - title: "showcase <div class=\"xyzzy-mark\"></div>"
     url: https://xyzzy.github.io
