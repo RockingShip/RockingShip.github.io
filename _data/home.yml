@@ -15,7 +15,7 @@ project_entries:
   - title: "splash"
     thumb: assets/splash-220x124.png
     url: https://rockingship.github.io/splash/README.html
-    desc: "Perceptual driven video codec"
+    desc: "Perceptual driven codec focusing on notion of motion"
 
   - title: "jsFractalZoom"
     thumb: assets/jsFractalZoom-220x124.png
