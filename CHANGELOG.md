@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-04-07 19:27:19 Changed: Split `zoomer`/`splash`.
 2021-03-26 18:40:04 Added: Images in navbar.
 2021-03-25 02:40:07 Fixed: Typos.
 2021-03-24 15:42:52 Added: Donate button.

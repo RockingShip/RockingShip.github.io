@@ -12,10 +12,15 @@ project_entries:
     desc: "Extract essence of information and store in fractal structures"
     highlight: WIP
 
+  - title: "splash"
+    thumb: assets/splash-220x124.png
+    url: https://rockingship.github.io/splash/README.html
+    desc: "Perceptual driven video codec"
+
   - title: "jsFractalZoom"
     thumb: assets/jsFractalZoom-220x124.png
     url: https://rockingship.github.io/jsFractalZoom/README.html
-    desc: "Fractal zoomer and splash codec written in javascript"
+    desc: "High-speed fractal zoomer written in javascript"
 
   - title: "ccbc"
     thumb: assets/ccbc-124x124.png
