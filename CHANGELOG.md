@@ -1,4 +1,4 @@
-# Changelog
+# Change log
 
 All notable changes to this project will be documented in this file.
 
@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-07-21 22:23:14 Added: `untangle-dataset`.
 2021-05-08 12:31:48 Changed: `splash` description.
 2021-04-07 22:05:46 Changed: `splash` description.
 2021-04-07 19:27:19 Changed: Split `zoomer`/`splash`.

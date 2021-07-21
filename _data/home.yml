@@ -6,6 +6,11 @@ navbar_entries:
     url: https://xyzzy.github.io
 
 project_entries:
+  - title: "untangle-dataset"
+    thumb: assets/untangle-dataset-220x124.png
+    url: https://rockingship.github.io/untangle-dataset/README.html
+    desc: "Database/dataset for untangle"
+
   - title: "untangle"
     thumb: assets/untangle-220x124.png
     url: https://rockingship.github.io/untangle/README.html
