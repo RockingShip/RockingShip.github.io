@@ -1,4 +1,4 @@
-# Change log
+# Changelog
 
 All notable changes to this project will be documented in this file.
 
@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2026-11-11 21:16:05 Changed: Welcome prose.
+                    Removed: Funding.
 2021-07-21 22:30:49 Fixed: image `untangle-dataset`.
 2021-07-21 22:23:14 Added: `untangle-dataset`.
 2021-05-08 12:31:48 Changed: `splash` description.

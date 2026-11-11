@@ -6,49 +6,50 @@ navbar_entries:
     url: https://xyzzy.github.io
 
 project_entries:
-  - title: "untangle-dataset"
-    thumb: assets/untangle-dataset-220x124.png
-    url: https://rockingship.github.io/untangle-dataset/README.html
-    desc: "Database/dataset for untangle"
-
   - title: "untangle"
     thumb: assets/untangle-220x124.png
     url: https://rockingship.github.io/untangle/README.html
-    desc: "Extract essence of information and store in fractal structures"
+    desc: "Extracts the essence of information and stores it as self-similar structure"
     highlight: WIP
 
-  - title: "splash"
-    thumb: assets/splash-220x124.png
-    url: https://rockingship.github.io/splash/README.html
-    desc: "Fractal zooming with a paint brush as video encoding (dynamic FPS)"
-
-  - title: "jsFractalZoom"
-    thumb: assets/jsFractalZoom-220x124.png
-    url: https://rockingship.github.io/jsFractalZoom/README.html
-    desc: "High-speed fractal zoomer written in javascript"
-
-  - title: "ccbc"
-    thumb: assets/ccbc-124x124.png
-    url: https://rockingship.github.io/ccbc/README.html
-    desc: "Closed Continuous Bézier Curves (remastered)"
-    highlight: WIP
-
-  - title: "transverseMercator"
-    thumb: assets/transverseMercator-220x124.png
-    url: https://rockingship.github.io/transverseMercator/README.html
-    desc: "Ellipsoidal Transverse Mercator Projection (Javascript)"
-    highlight: WIP
+  - title: "untangle-dataset"
+    thumb: assets/untangle-dataset-220x124.png
+    url: https://rockingship.github.io/untangle-dataset/README.html
+    desc: "The prime structures untangle builds with, found once by exhaustive search"
 
   - title: "armonika"
     thumb: assets/armonika-220x124.png
     url: https://rockingship.github.io/armonika/README.html
-    desc: "Encoding/decoding/handling of variable length numbers in bit addressable memory"
+    desc: "Facing the machine: variable-length numbers in bit-addressable memory, each marking its own end"
     highlight: WIP
 
   - title: "xtools"
     thumb: assets/xtools-124x124.png
     url: https://rockingship.github.io/xtools/README.html
-    desc: "Toolchain intended for supporting the \"untangle\" fractal engine. Keep it simple!"
+    desc: "A minimal toolchain for untangle: programs split into expressions and flow control. Keep it simple!"
+    highlight: concept
+
+  - title: "ccbc"
+    thumb: assets/ccbc-124x124.png
+    url: https://rockingship.github.io/ccbc/README.html
+    desc: "Facing the world: Closed Continuous Bézier Curves, a curve held by its on-curve points alone"
+    highlight: WIP
+
+  - title: "transverseMercator"
+    thumb: assets/transverseMercator-220x124.png
+    url: https://rockingship.github.io/transverseMercator/README.html
+    desc: "A case study for ccbc: the ellipsoidal Transverse Mercator projection (Javascript)"
+    highlight: WIP
+
+  - title: "jsFractalZoom"
+    thumb: assets/jsFractalZoom-220x124.png
+    url: https://rockingship.github.io/jsFractalZoom/README.html
+    desc: "Seeing: a high-speed fractal zoomer that computes only the pixels it has yet to know"
+
+  - title: "splash"
+    thumb: assets/splash-220x124.png
+    url: https://rockingship.github.io/splash/README.html
+    desc: "Sending: video as a stream ordered by importance, fractal zooming with a paint brush (dynamic FPS)"
 
 footer_entries:
   - title: "RockingShip <div class=\"GitHub-mark\"></div>"
